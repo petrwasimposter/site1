@@ -79,3 +79,7 @@ img{
 h2{
     color: red;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
